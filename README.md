@@ -19,8 +19,8 @@
 ### 🔹 Linguagens & Tecnologias 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=microsoftsqlserver)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-Basic-blue?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=for-the-badge&logo=typescript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-purple?style=for-the-badge&logo=kotlin)
 ![React](https://img.shields.io/badge/React-Basic-blue?style=for-the-badge&logo=react)
 ![Power Fx (Power Apps)](https://img.shields.io/badge/Power_Fx_(Power_Apps)-Basic-blue?style=for-the-badge&logo=microsoft)
