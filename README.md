@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=c74066&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Emily;Estudante+de+Sistemas+de+Informação;Focada+em+tecnologia,+dados+e+automação">
+  <img src="https://readme-typing-svg.herokuapp.com?color=c74066&size=28&center=true&vCenter=true&width=600&lines=Sou+Estudante+de+Sistemas+de+Informação;Focada+em+tecnologia,+dados+e+automação">
 </p>
 
 ---
